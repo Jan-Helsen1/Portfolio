@@ -9,8 +9,8 @@ export default function Website() {
         <section className="contact">
             <h2>CONTACT</h2>
             <ul>
-                <li><a href="">LINKEDIN</a></li>
-                <li><a href="">GITHUB</a></li>
+                <li><a href="https://www.linkedin.com/in/jan-helsen-b66a7a26b/">LINKEDIN</a></li>
+                <li><a href="https://github.com/Jan-Helsen1">GITHUB</a></li>
                 <li><a href="">MAIL</a></li>
             </ul>
         </section>
